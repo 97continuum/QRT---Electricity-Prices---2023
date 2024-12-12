@@ -8,9 +8,6 @@
 - This Score put the team's position at 77 out of total global submissions of 866 individuals and teams. 
 
 
-  ![image.png](GlobalPosition.png)
-
-
 ## Challenge Context
 
 Every day, a multitude of factors impact the price of electricity. These factors can vary from local weather conditions affecting electricity generation and demand to long-term phenomena like global warming. Geopolitical events, such as the war in Ukraine, may also influence the price of commodities, which are critical inputs in electricity generation. Additionally, each country relies on a unique energy mix, which can include nuclear, solar, hydro, gas, coal, and more.
